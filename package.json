@@ -1,0 +1,18 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "my NODE JS App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cros": "^1.0.1",
+    "express": "^4.18.3",
+    "mysql2": "^3.9.4",
+    "nodemon": "^3.1.0"
+  }
+}
